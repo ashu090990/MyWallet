@@ -1,0 +1,11 @@
+{
+    "welcome": "Hello",
+    "name": "Charlie",
+    "cardId": "Card ID",
+    "cardNo": "Card Number",
+    "cvvSeen": "CVV seen",
+    "yes": "Yes",
+    "no": "No",
+    "currentLocale": "Current locale",
+    "deviceLocale": "Device locale"
+}
